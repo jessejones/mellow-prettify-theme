@@ -42,7 +42,7 @@ http://jessejones.me
 }
 
 /* Put a border around prettyprinted code snippets. */
-pre.prettyprint { padding: 2px; border: 1px solid #ccc }
+pre.prettyprint { background:#ffffff; padding: 2px; border: 1px solid #ccc }
 
 /* Specify class=linenums on a pre to get line numbering */
 ol.linenums { margin-top: 0; margin-bottom: 0 } /* IE indents via margin-left */
