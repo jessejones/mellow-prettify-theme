@@ -17,10 +17,10 @@ http://jessejones.me
   .str { color: #b62b28 }  /* string content */
   .kwd { color: #494db9 }  /* a keyword */
   .com { color: #32c421 }  /* a comment */
-  .typ { color: #000000 }  /* a type name */
+  .typ { color: #bbbbbb }  /* a type name */
   .lit { color: #361bbe }  /* a literal value */
   /* punctuation, lisp open bracket, lisp close bracket */
-  .pun, .opn, .clo { color: #555555 }
+  .pun, .opn, .clo { color: #bbbbbb }
   .tag { color: #361bbe }  /* a markup tag name */
   .atn { color: #b8b68d }  /* a markup attribute name */
   .atv { color: #b62b28 }  /* a markup attribute value */
@@ -35,7 +35,7 @@ http://jessejones.me
   .com { color: #32c421; font-style: italic }
   .typ { color: #000; font-weight: bold }
   .lit { color: #361bbe }
-  .pun, .opn, .clo { color: #440 }
+  .pun, .opn, .clo { color: #999999 }
   .tag { color: #361bbe; font-weight: bold }
   .atn { color: #b8b68d }
   .atv { color: #b62b28 }
